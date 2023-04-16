@@ -50,12 +50,13 @@ COMP6651_WINTER2023_Project\User_Interface\dist\main
 ```
 Run the main.exe file
 
+
 ## Demo FirstFit algorithm
 
 Click on the link here:
-https://drive.google.com/file/d/1VxIXuBNijQWlV2hHOZ4JeLp01M258TGW/view?usp=sharing
+https://drive.google.com/file/d/1vN-K3DoJ0cAYmOJdhq37bNjcmGeT6UaM/view?usp=sharing
 
 ## Demo CBIP algorithm
 
 Click on the link here:
-https://drive.google.com/file/d/1SXQwyUY0Mom3plIiV_U42hqlPVjrW2kY/view?usp=sharing
+https://drive.google.com/file/d/1qoTcfMlADHI1DjRx0JjRdrP_l02hChf6/view?usp=sharing
