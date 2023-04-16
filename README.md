@@ -52,19 +52,10 @@ Run the main.exe file
 
 ## Demo FirstFit algorithm
 
-Insert video to demo
+Click on the link below:
+https://drive.google.com/file/d/1VxIXuBNijQWlV2hHOZ4JeLp01M258TGW/view?usp=sharing
 
 ## Demo CBIP algorithm
 
-Insert video to demo
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
+Click on the link below:
+https://drive.google.com/file/d/1SXQwyUY0Mom3plIiV_U42hqlPVjrW2kY/view?usp=sharing
