@@ -1,4 +1,4 @@
-('C:\\Users\\Niki\\OneDrive\\Desktop\\User_Interface\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\Niki\\OneDrive\\Desktop\\COMP6651\\COMP6651_WINTER2023_Project\\User_Interface\\build\\main\\PYZ-00.pyz',
  [('IPython',
    'C:\\Users\\Niki\\AppData\\Roaming\\Python\\Python310\\site-packages\\IPython\\__init__.py',
    'PYMODULE'),

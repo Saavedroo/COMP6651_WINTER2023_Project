@@ -212,8 +212,8 @@ if algorithm_type == 0:
         choose_graph(int(text)-1)
         
 
-  axbox = plt.axes([0.1, 0.1, 0.8, 0.05])
-  text_box = TextBox(axbox, 'Input graph number',)
+  axbox = plt.axes([0.15, 0.1, 0.7, 0.05])
+  text_box = TextBox(axbox, 'Input graph number then \n press "ENTER" ',)
   text_box.on_submit(submit)
 
 
@@ -472,7 +472,7 @@ if algorithm_type == 1:
 
 
   axbox = plt.axes([0.1, 0.02, 0.8, 0.05])
-  axbox.text(0.5, 0.5, f"Maximum ratio: {max(ratio_list_cbip)}, Ratio's mean:{np.mean(np.array(ratio_list_cbip))}, Standard deviation: {np.std(np.array(ratio_list_cbip))}", ha='center', va='center', transform=axbox.transAxes, fontsize= 11)
+  axbox.text(0.5, 0.5, f"Maximum ratio: {max(ratio_list_cbip)}, Ratio's mean:{np.mean(np.array(ratio_list_cbip))}, Standard deviation: {np.std(np.array(ratio_list_cbip))}", ha='center', va='center', transform=axbox.transAxes, fontsize= 10)
   
   axbox.spines['top'].set_visible(False)
   axbox.spines['bottom'].set_visible(False)
@@ -481,8 +481,8 @@ if algorithm_type == 1:
   axbox.set_xticks([])
   axbox.set_yticks([])
   
-  axbox = plt.axes([0.1, 0.1, 0.8, 0.05])
-  text_box = TextBox(axbox, 'Input graph number',)
+  axbox = plt.axes([0.15, 0.1, 0.7, 0.05])
+  text_box = TextBox(axbox, 'Input graph number then \n press "ENTER" ',)
   text_box.on_submit(submit)
   
   #axbox = plt.axes([0.1, 0.05, 0.8, 0.05])
