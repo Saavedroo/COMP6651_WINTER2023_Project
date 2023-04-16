@@ -497,8 +497,11 @@ if algorithm_type == 1:
   ax.set_xticklabels([])
   ax.set_yticklabels([])
   
+# Get the figure manager
   fig_manager = plt.get_current_fig_manager()
-  fig_manager.window.showMaximized()
+
+# Maximize the plot window
+  fig_manager.full_screen_toggle()
 
   plt.show()
 
