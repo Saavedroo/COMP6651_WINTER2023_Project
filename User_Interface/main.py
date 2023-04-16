@@ -227,8 +227,11 @@ if algorithm_type == 0:
   rect_selector = RectangleSelector(ax, onselect)
   ax.set_xticklabels([])
   ax.set_yticklabels([])
-  fig_manager = plt.get_current_fig_manager()
-  fig_manager.window.showMaximized()
+# Get the figure manager
+  #fig_manager = plt.get_current_fig_manager()
+
+# Maximize the plot window
+  #fig_manager.full_screen_toggle()
 
   plt.show()
 
@@ -498,10 +501,10 @@ if algorithm_type == 1:
   ax.set_yticklabels([])
   
 # Get the figure manager
-  fig_manager = plt.get_current_fig_manager()
+  #fig_manager = plt.get_current_fig_manager()
 
 # Maximize the plot window
-  fig_manager.full_screen_toggle()
+  #fig_manager.full_screen_toggle()
 
   plt.show()
 
