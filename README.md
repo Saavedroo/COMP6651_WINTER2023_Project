@@ -52,10 +52,10 @@ Run the main.exe file
 
 ## Demo FirstFit algorithm
 
-Click on the link below:
+Click on the link here:
 https://drive.google.com/file/d/1VxIXuBNijQWlV2hHOZ4JeLp01M258TGW/view?usp=sharing
 
 ## Demo CBIP algorithm
 
-Click on the link below:
+Click on the link here:
 https://drive.google.com/file/d/1SXQwyUY0Mom3plIiV_U42hqlPVjrW2kY/view?usp=sharing
