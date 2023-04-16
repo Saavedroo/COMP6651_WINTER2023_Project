@@ -2,7 +2,7 @@
 # COMP 6651 Project
 The following documents can be found in this repository:
 
-- [Graph Generators](https://github.com/Saavedroo/COMP6651_WINTER2023_Project/tree/main/Graphs)
+- [Graph Generators](https://drive.google.com/drive/folders/1GKZgyKK_-n39zxFB4kSNoQFsEPVx-z6U?usp=sharing)
 - FirstFit algorithm
 - CBIP algorithms
     - Method 1
