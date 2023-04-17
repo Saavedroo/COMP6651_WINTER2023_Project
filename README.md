@@ -3,7 +3,7 @@
 The following documents can be found in this repository:
 
 - [Generated Graphs](https://drive.google.com/drive/folders/1GKZgyKK_-n39zxFB4kSNoQFsEPVx-z6U?usp=sharing):
-You need to download the Graphs and put whatever graphs you want to check(the pickle files), in the same directory of the respected notebook. 
+You need to download the Graphs and put the graphs you want to check(the pickle files), in the same directory of the python notebook. 
 - FirstFit algorithm
 - CBIP algorithms
     - Method 1
