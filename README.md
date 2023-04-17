@@ -2,7 +2,8 @@
 # COMP 6651 Project
 The following documents can be found in this repository:
 
-- [Graph Generators](https://drive.google.com/drive/folders/1GKZgyKK_-n39zxFB4kSNoQFsEPVx-z6U?usp=sharing)
+- [Generated Graphs](https://drive.google.com/drive/folders/1GKZgyKK_-n39zxFB4kSNoQFsEPVx-z6U?usp=sharing)
+you need to download the Graphs and put whatever graphs you want(pickle file) to check, in the same directory of the respected notebook. 
 - FirstFit algorithm
 - CBIP algorithms
     - Method 1
